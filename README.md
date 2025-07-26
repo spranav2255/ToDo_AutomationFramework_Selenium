@@ -14,11 +14,7 @@ It follows a modular, scalable Page Object Model (POM) architecture with multi-t
 
 ## Prerequisites
 
-Java 11+
-Maven
-Chrome browser
-Internet access to download dependencies
-
+Java 11+, Maven, Chrome browser, Internet access to download dependencies, node, npm.
 ## Starting the ToDo App (REQUIRED Before Tests)
 
 # START THE CLIENT (React)
