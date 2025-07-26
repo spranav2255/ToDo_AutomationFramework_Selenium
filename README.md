@@ -1,4 +1,4 @@
-### ToDo React App – Test Automation Framework
+# ToDo React App – Test Automation Framework
 This repository contains an automated test suite for a React-based ToDo web application using:
   1.Selenium WebDriver
   2.Cucumber (BDD)
