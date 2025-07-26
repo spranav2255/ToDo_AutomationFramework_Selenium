@@ -18,11 +18,13 @@ Java 11+, Maven, Chrome browser, Internet access to download dependencies, node,
 ## Starting the ToDo App (REQUIRED Before Tests)
 
 # START THE CLIENT (React)
-cd ../client (../client/client)
-npm install axios
-npm start
+
+Step 1 | cd ../client (../client/client) - In Your command prompt, go to the client folder location of ToDo App               |
+Step 2 | Type command ........................................... > npm install axios                                         |
+Step 3 | Type command ........................................... > node server.js                                            |
 
 
 # START THE SERVER (Node.js)
-cd ../server
-node server.js
+
+Step 1 | cd ../server - In Your command prompt, go to the server folder location of ToDo App where server.js is located       |
+Step 2 | Type command ........................................... > npm install axios                                         |
