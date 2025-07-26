@@ -1,10 +1,6 @@
 # ToDo React App – Test Automation Framework
 This repository contains an automated test suite for a React-based ToDo web application using:
-  1.Selenium WebDriver
-  2.Cucumber (BDD)
-  3.TestNG
-  4.Extent Reports
-  5.Maven
+Selenium WebDriver, Cucumber (BDD), TestNG, Extent Reports, Maven.
 It follows a modular, scalable Page Object Model (POM) architecture with multi-threaded execution support.
 
 | Tool               | Purpose                       |
